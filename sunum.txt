@@ -1,8 +1,11 @@
+Fetal, döllenmeden yaklaşık sekiz hafta sonra başlayan ve doğuma kadar devam eden gelişim sürecini ifade etmek
+için kullanılır. Örneğin "fetal gelişim" ifadesi, bebeğin anne karnındaki büyüme ve organ oluşumu evrelerini tanımlar.
+
 1. NORMAL: 132.0 0.006 0.0 0.006 0.003 0.0 0.0 17.0 2.1 0.0 10.4 130.0 68.0 198.0 6.0 1.0 141.0 136.0 140.0 12.0 0.0
 
 2. ŞÜPHELİ (Suspect): 132.0 0.0 0.135 0.001 0.008 0.0 0.001 29.0 4.4 0.0 10.5 141.0 50.0 191.0 7.0 1.0 133.0 119.0 129.0 73.0 0.0
 
-3. PATOLOJİK (Pathological - Yüksek Risk): 134.0 0.001 0.0 0.01 0.009 0.0 0.002 26.0 5.9 0.0 0.0 150.0 50.0 200.0 5.0 3.0 76.0 107.0 107.0 170.0 0.0
+3. PATOLOJİK (Pathological): 134.0 0.001 0.0 0.01 0.009 0.0 0.002 26.0 5.9 0.0 0.0 150.0 50.0 200.0 5.0 3.0 76.0 107.0 107.0 170.0 0.0
 
 
 Bu veriseti, Portekiz'deki São João Hastanesi'nden elde edilen 2.126 fetal kardiyotokografi
@@ -12,3 +15,4 @@ Yazarların ve UCI Machine Learning Repository'nin belirttiği standart atıf fo
 Ayres de Campos D, Bernardes J, Garrido A, Marques-de-Sa J, Pereira-Leite L. SisPorto 2.0: 
 a system for automated analysis of cardiotocograms. J Matern Fetal Med. 
 2000 Sep-Oct;9(5):311-8. PMID: 11132560.
+
